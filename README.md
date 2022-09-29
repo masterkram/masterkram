@@ -5,7 +5,7 @@
 ### :computer: &nbsp;About Me 
 
 - :mag_right: &nbsp; Currently focusing on AI.
-- :mortar_board: &nbsp; 2nd year student of BIT at UTwente.
+- :mortar_board: &nbsp; 3rd year student of BIT at UTwente.
 - :airplane: &nbsp; Private pilot.
 - :surfer: &nbsp; practicing the art of communing with moving mountains of water aka. surfing.
 - :speaking_head: &nbsp; Speaking English:uk:, Spanish:es:, French:fr:, and Dutch:netherlands:
