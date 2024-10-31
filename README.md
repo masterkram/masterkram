@@ -8,11 +8,9 @@
 #### Links to check out:
 
 + [bruderer.ai](https://www.bruderer.ai)
++ [mintedcms](https://www.mintedcms.com)
++ [minteddirectory](https://www.minteddirectory.com)
 
-
-#### BIT
-
-+ [bytehub](https://github.com/masterkram/bytehub)
 
 #### Stats
 
