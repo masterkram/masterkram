@@ -7,7 +7,7 @@
 
 #### Links to check out:
 
-+ [bruderer.ai](https://www.markbruderer.com)
++ [markbruderer.com](https://www.markbruderer.com)
 + [mintedcms](https://www.mintedcms.com)
 + [minteddirectory](https://www.minteddirectory.com)
 
